@@ -1,0 +1,9 @@
+{
+  "name": "tm-fss-fullscan-plugin-scantrigger",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@google-cloud/pubsub": "^4.3.3",
+    "@google-cloud/storage": "^7.10.0"
+  }
+}
